@@ -329,9 +329,7 @@ let menuu = `\n╭━━━━┈⎔ *INFO BOT*
 │ *Runtime* : ${uptime}
 ╰━━━━━━━━━━━━┈⎔
 
-Bot Ke-2
-wa.me/6285159258830
- 
+
 ICON INFO
 Ⓛ = Fitur Memakai Limit
 Ⓟ = Fitur Khusu Premium User   
@@ -468,7 +466,7 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
               },               {
                 "rows": [{
                   "title": `↳🤴┃OWNER BOT`,
-                  "description": "Save Kontak Clara:(",
+                  "description": "Save Kontak Owner!",
                   "rowId": `.owner`
                 },{
                   "title": "↳🤖┃BOT",
@@ -549,14 +547,14 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
             hydratedFooterText: wm2, 
             hydratedButtons: [{
             urlButton: {
-               displayText: 'Ikuti Akun IG Clara',
+               displayText: 'Trakteer',
                url: web
              }
 
            },
              {
              urlButton: {
-               displayText: 'Group Bot Lexa', 
+               displayText: 'Grouo Official Shadow', 
                url: gc
              }
 
@@ -597,13 +595,13 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
 }
 handler.help = ['menu', 'help', '?']
 handler.tags = ['main']
-handler.command = /^(menu|help|\?)$/i
+handler.command = /^(menu|bot|help|\?)$/i
 handler.owner = false
 handler.mods = false
 handler.premium = false
 handler.group = false
 handler.private = false
-handler.register = false
+handler.register = true
 
 handler.admin = false
 handler.botAdmin = false
