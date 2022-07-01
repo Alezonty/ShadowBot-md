@@ -325,7 +325,6 @@ let menuu = `\n╭━━━━┈⎔ *INFO BOT*
 ││ *Premium* : ${global.prem ? 'Yes' : 'No'}
 │╰────────────┈⎔
 │ *Time Wib* : ${wib}
-│ *Time Wita* : ${wita}
 │ *Date* : ${week} ${date}
 │ *Runtime* : ${uptime}
 ╰━━━━━━━━━━━━┈⎔
