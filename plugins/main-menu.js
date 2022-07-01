@@ -308,8 +308,8 @@ const fdoc = {
 if (teks == '404') {
 let menuu = `\n╭━━━━┈⎔ *INFO BOT*
 ├❏ *Bot Name* : *${namebot}*
-├❏ *Owner* : Clara
-├❏ *Version* : 5.0
+├❏ *Owner* : Reza
+├❏ *Version* : 2.5 BETA
 ├❏ *Perfix* : Multi
 ├❏ *Lib* : Baileys-Md@4.0.0
 ├❏ *Pengguna* : ${Object.keys(global.db.data.users).length}
@@ -324,7 +324,8 @@ let menuu = `\n╭━━━━┈⎔ *INFO BOT*
 ││ *Level* : ${level}
 ││ *Premium* : ${global.prem ? 'Yes' : 'No'}
 │╰────────────┈⎔
-│ *Time* : ${wib}
+│ *Time Wib* : ${wib}
+│ *Time Wita* : ${wita}
 │ *Date* : ${week} ${date}
 │ *Runtime* : ${uptime}
 ╰━━━━━━━━━━━━┈⎔
