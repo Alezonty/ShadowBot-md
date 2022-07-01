@@ -14,7 +14,7 @@ Kalian bisa mendukung saya agar bot ini tetap up to date dengan:
 └────
 Berapapun donasi kalian akan sangat berarti 👍
 
-Arigatou!
+Terimakasih Yang Sudah Donasi!
 
 Contact person Owner:
 wa.me/${numberowner} (Owner)
