@@ -6,8 +6,8 @@ global.prems = ['6281248537085']
 //=============『 Info Owner 』============== //
 global.nameowner = 'Reza'
 global.numberowner = '6281248537085'
-global.instagram = 'https://instagram.com/hyzer_stfu'
-global.github = 'https://github.com/Hyzerr'
+global.instagram = 'Kaga Punya Ig'
+global.github = 'https://github.com'
 global.dana = '081248537085'
 global.pulsa = '081248537085'
 global.gopay = '081248537085'
